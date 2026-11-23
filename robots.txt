@@ -1,4 +1,6 @@
+
 User-agent: *
 Allow: /
 
-Sitemap: https://easymovers.ae/sitemap.xml
+Sitemap: https://movingcompaniesindubai.github.io/moving-companies-dubai/sitemap.xml
+
